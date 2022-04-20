@@ -28,9 +28,7 @@ self.addEventListener('install' , (event)=>{
             "https://rahulnail.github.io/Burger/images/product-5.png",
             "https://rahulnail.github.io/Burger/images/product-6.png",
             "https://rahulnail.github.io/Burger/images/sec_img.png",
-            "https://rahulnail.github.io/Burger/images/title-img.png",
-
-
+            "https://rahulnail.github.io/Burger/images/title-img.png"
         ]).catch((error)=>{
             console.log(error)
         })
