@@ -1,0 +1,25 @@
+{
+    "name": "Green Desire",
+    "short_name": "Green Desire",
+    "description": "Progressive Web App feature added in our application",
+    "icons": [
+        {
+            "src":"./images/burger_app_logo.png",
+            "sizes":"512x512",
+            "type":"image/png",
+            "purpose":"any maskable"
+        },
+        {
+            "src":"./images/sec_img.jpg",
+            "sizes":"96x96",
+            "type":"image/png",
+            "purpose":"any maskable"
+        }
+    ],
+    "id":"https://riyaz2014.github.io/foodwebsite/",
+    "start_url": "https://riyaz2014.github.io/foodwebsite/",
+    "display": "fullscreen",
+    "theme_color": "#00FF00",
+    "background_color": "#FFFFFF",
+    "orientation":"portrait"
+  }
