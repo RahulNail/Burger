@@ -1,6 +1,6 @@
 {
-    "name": "Green Desire",
-    "short_name": "Green Desire",
+    "name": "Burger Website",
+    "short_name": "Burger Website",
     "description": "Progressive Web App feature added in our application",
     "icons": [
         {
@@ -10,14 +10,14 @@
             "purpose":"any maskable"
         },
         {
-            "src":"./images/sec_img.jpg",
+            "src":"./images/sec_img.png",
             "sizes":"96x96",
             "type":"image/png",
             "purpose":"any maskable"
         }
     ],
-    "id":"https://riyaz2014.github.io/foodwebsite/",
-    "start_url": "https://riyaz2014.github.io/foodwebsite/",
+    "id":"https://rahulnail.github.io/Burger/",
+    "start_url": "https://rahulnail.github.io/Burger/",
     "display": "fullscreen",
     "theme_color": "#00FF00",
     "background_color": "#FFFFFF",
